@@ -29,7 +29,7 @@ const pgConfig = {
   host: 'localhost',
   user: 'app_user',
   password: 'app_pass',
-  database: 'anuj_prokashon_production2',
+  database: 'app_db',
   port: 5432,
 };
 
